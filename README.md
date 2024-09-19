@@ -3,7 +3,7 @@
 In `src/main.cpp`, you will find a code that initializes two vectors (`vector1` and `vector2`) with some values.
 It then computes the dot product between the two vectors and prints the result.
 
-You will use CMake to compile the code, and will provide a configuration option to use either the BLAS library or the Eigen library for evaluating the dot product. To make this process easier, remember the techniques we discussed earlier regarding container-native development.
+You will use CMake to compile the code, and will provide a configuration option to use either the BLAS library or the Eigen library for evaluating the dot product.
 
 ## Tasks
 
